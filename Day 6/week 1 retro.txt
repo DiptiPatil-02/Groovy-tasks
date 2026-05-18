@@ -1,0 +1,14 @@
+#Week 1 Retrospective
+
+## What worked
+- Learned prompt engineering
+- Used Cursor and Claude Projects
+- Built CRUD app structure
+
+## What was hard
+- PostgreSQL setup
+- GitHub authentication issues
+- Understanding API keys
+
+## Improvements
+- improve use of cursor and claude projects
