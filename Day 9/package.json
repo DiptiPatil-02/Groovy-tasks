@@ -1,0 +1,13 @@
+{
+  "name": "day-9-caching",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "codebase_explainer.js",
+  "scripts": {
+    "start": "node codebase_explainer.js",
+    "benchmark": "node measure_savings.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
